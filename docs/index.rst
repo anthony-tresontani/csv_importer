@@ -30,7 +30,7 @@ Basic sample
 
 Here is a basic sample:
 
->>> class MyCSvModel(CsvModel):
+>>> class MyCsvModel(CsvModel):
 >>>    name = CharField()
 >>>    age = IntegerField()
 >>>    length = FloatField()
